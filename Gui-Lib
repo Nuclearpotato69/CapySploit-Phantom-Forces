@@ -29,7 +29,7 @@ Library v0.32 [
            ) -> Section [
                AddLabel: Function (
                    (table) Options [
-                       (string | nil) Text/Value/Name = "Label Text"
+                       (string | nil) Text/Value/Name = "Label Text" 
                        (string | nil) Flag = "FlagName"
                        (any) UnloadValue = UnloadValue
                        (function | nil) UnloadFunc = Function
